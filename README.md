@@ -4,10 +4,10 @@ Toto je moja prvá webová stránka. Vytvoril(a) som ju na predmete
 PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 
 ## Obsah
-- `02_tema/zadanie.html` — osobný web (o mne, záujmy, kontakt)
+- `02_téma/zadanie.html` — osobný web (o mne, záujmy, kontakt)
 
 ## Živá stránka
-https://viktoriakotulova.github.io/SS_PRX_II.C/02_tema/zadanie.html
+https://viktoriakotulova.github.io/SS_PRX_II.C/02_téma/zadanie.html
 
 ## Čo som sa naučil(a)
 - základnú schému HTML dokumentu (DOCTYPE, html, head, body)
