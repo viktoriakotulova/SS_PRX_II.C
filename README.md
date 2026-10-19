@@ -6,6 +6,8 @@ PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 ## Obsah
 - `02_tema/zadanie.html` — osobný web (o mne, záujmy, kontakt)
 
+- `04_tema/mini_projekt.html`
+- 
 ## Živá stránka
 https://viktoriakotulova.github.io/SS_PRX_II.C/02_tema/zadanie.html
 
