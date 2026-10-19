@@ -9,6 +9,8 @@ PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 ## Živá stránka
 https://viktoriakotulova.github.io/SS_PRX_II.C/02_tema/zadanie.html
 
+https://github.io/viktoriakotulova/SS_PRX_II.C/blob/main/04_tema/mini_projekt.html
+
 ## Čo som sa naučil(a)
 - základnú schému HTML dokumentu (DOCTYPE, html, head, body)
 - význam <title>, charset="UTF-8" a lang="sk"
