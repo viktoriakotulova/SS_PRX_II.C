@@ -16,6 +16,8 @@ https://viktoriakotulova.github.io/SS_PRX_II.C/04_tema/mini_projekt.html
 
 https://viktoriakotulova.github.io/SS_PRX_II.C/06_tema/vylety.html
 
+https://viktoriakotulova.github.io/SS_PRX_II.C/08_tema/index1.html
+
 ## Čo som sa naučil(a)
 - základnú schému HTML dokumentu (DOCTYPE, html, head, body)
 - význam <title>, charset="UTF-8" a lang="sk"
