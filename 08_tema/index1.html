@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <title>Zaujímavé zvieratá</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f5f8;
+            color: #222;
+            padding: 20px;
+        }
+
+        nav {
+            background-color: #205b49;
+            padding: 15px;
+            border-radius: 10px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin-right: 25px;
+        }
+
+        h1 {
+            color: #205b49;
+        }
+
+        #galeria {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .karta {
+            background-color: white;
+            border: 1px solid #cbd5df;
+            border-radius: 12px;
+            padding: 15px;
+            width: 270px;
+            text-align: center;
+        }
+
+        .karta img {
+            width: 200px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+
+        .karta h2 {
+            color: #203d5b;
+        }
+
+        #fakty {
+            background-color: white;
+            padding: 15px;
+            border: 1px solid #cbd5df;
+            border-radius: 10px;
+            margin-top: 25px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav>
+        <a href="../index.html">Domov</a> |
+        <a href="#galeria">Galéria</a>
+        <a href="#fakty">Fakty</a>
+    </nav>
+
+    <h1>Zaujímavé zvieratá</h1>
+
+    <p>
+        Vitaj na mojej stránke o zvieratách.
+        Dozvieš sa tu zaujímavosti o šiestich
+        rôznych zvieratách.
+    </p>
+
+    <div id="galeria">
+
+        <div class="karta">
+            <img src="obrazky/liska.jpg" alt="Líška">
+            <h2>Líška</h2>
+            <p>Šelma s hustým chvostom, ktorá žije aj na Slovensku.</p>
+        </div>
+
+        <div class="karta">
+            <img src="obrazky/tucniak.jpg" alt="Tučniak">
+            <h2>Tučniak</h2>
+            <p>Vták, ktorý nelieta, ale výborne pláva v studenom mori.</p>
+        </div>
+
+        <div class="karta">
+            <img src="obrazky/slon.jpg" alt="Slon">
+            <h2>Slon</h2>
+            <p>Najväčšie suchozemské zviera s dlhým chobotom.</p>
+        </div>
+
+        <div class="karta">
+            <img src="obrazky/panda.jpg" alt="Panda">
+            <h2>Panda</h2>
+            <p>Medveď, ktorý sa živí hlavne bambusom.</p>
+        </div>
+
+        <div class="karta">
+            <img src="obrazky/sova.jpg" alt="Sova">
+            <h2>Sova</h2>
+            <p>Nočný lovec s tichým letom a veľkými očami.</p>
+        </div>
+
+        <div class="karta">
+            <img src="obrazky/delfin.jpg" alt="Delfín">
+            <h2>Delfín</h2>
+            <p>Múdry morský cicavec, ktorý sa dorozumieva pískaním.</p>
+        </div>
+
+    </div>
+
+    <h2 id="fakty">Rýchle fakty</h2>
+
+    <ul>
+        <li>Zvieratá delíme na cicavce, vtáky, ryby, plazy a obojživelníky.</li>
+        <li>Najrýchlejšie zviera je gepard.</li>
+        <li>Najväčší cicavec je veľryba modrá.</li>
+        <li>Slony majú veľmi dobrú pamäť.</li>
+        <li>Delfíny komunikujú pomocou zvukov.</li>
+    </ul>
+
+</body>
+</html>
